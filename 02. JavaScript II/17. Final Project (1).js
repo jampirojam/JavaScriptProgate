@@ -17,6 +17,6 @@ const cafe = {
   // Use a for loop to print the contents of the menu array
   for(let i = 0; i < cafe.menus.length; i++){
     menu = cafe.menus[i];
-    console.log(menu)
+    console.log(menu);
   }
   
